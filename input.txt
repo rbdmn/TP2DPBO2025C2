@@ -1,0 +1,83 @@
+TESTCASE JAVA
+=============
+1
+Rendang
+202500
+20
+Original
+Kain
+Biru
+Anjing
+RoyalCanin
+L
+
+1
+BOSS
+30200
+15
+Rompian
+Kain
+Hitam
+Anjing
+INPUTBUKTIDINAMISAMAN
+M
+
+2
+
+TESTCASE C++
+============
+5
+TermosGoreng 99 120000 Celana Rajut Putih Kelinci L Rockstar
+SpatulaSponbob 61 145500 Baju Kain Ungu Anjing M NetEase
+PertamaxScam 55 300000 Kemeja Katun Kuning Monyet S PuluPulu
+CacingRebus 10 999999 Sarung Kain Merah Kucing L Marhaban
+Semester4 99 101010 CEKDINAMIPANJANG Rajut Biru Hamster S Tulus
+
+TESTCASE PYTHON
+===============
+5
+Kemeja_Polos
+20
+150000
+Lengan_Panjang
+Katun
+Biru
+Pria
+M
+Levi
+Kaos_Grafis
+35
+120000
+Lengan_Pendek
+Polyester
+Hitam
+Unisex
+L
+Adidas
+Jaket_Hoodie
+15
+250000
+Lengan_Panjang
+Fleece
+Abu-abu
+Pria
+XL
+Nike
+Sweater_Wool
+10
+300000
+Lengan_Panjang
+Wool
+Merah
+Wanita
+S
+Zara
+BUKTIDINAMISBISAPANJANGYESYESYESYESYESYESYES
+25
+175000
+Lengan_Pendek
+Rayon
+Putih
+Wanita
+M
+H&M
