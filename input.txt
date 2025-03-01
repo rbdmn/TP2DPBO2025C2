@@ -31,7 +31,7 @@ TermosGoreng 99 120000 Celana Rajut Putih Kelinci L Rockstar
 SpatulaSponbob 61 145500 Baju Kain Ungu Anjing M NetEase
 PertamaxScam 55 300000 Kemeja Katun Kuning Monyet S PuluPulu
 CacingRebus 10 999999 Sarung Kain Merah Kucing L Marhaban
-Semester4 99 101010 CEKDINAMIPANJANG Rajut Biru Hamster S Tulus
+Semester4 99 101010 CEKDINAMISPANJANG Rajut Biru Hamster S Tulus
 
 TESTCASE PYTHON
 ===============
