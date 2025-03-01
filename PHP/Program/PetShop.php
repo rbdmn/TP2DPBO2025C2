@@ -34,13 +34,13 @@ class Petshop
     }
 
     // Setter nama produk
-    public function set_namaProduk($nama_produk)
+    public function set_nama_produk($nama_produk)
     {
         $this->nama_produk = $nama_produk;
     }
 
     // Getter nama produk
-    public function get_namaProduk()
+    public function get_nama_produk()
     {
         return $this->nama_produk;
     }
@@ -52,7 +52,7 @@ class Petshop
     }
 
     // Getter stok produk
-    public function get_stokProduk()
+    public function get_stok_produk()
     {
         return $this->stok_produk;
     }
@@ -64,7 +64,7 @@ class Petshop
     }
 
     // Getter harga produk
-    public function get_hargaProduk()
+    public function get_harga_produk()
     {
         return $this->harga_produk;
     }

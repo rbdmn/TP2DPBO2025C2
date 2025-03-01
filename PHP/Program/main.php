@@ -60,7 +60,7 @@ $HARCODELIST = array(
 for ($i = 0; $i < count($HARCODELIST); $i += 10) {
     $ProdukBaru = new Baju("", '', "");
 
-    $ProdukBaru->set_namaProduk($HARCODELIST[$i]);
+    $ProdukBaru->set_nama_produk($HARCODELIST[$i]);
     $ProdukBaru->set_jenis($HARCODELIST[$i + 1]);
     $ProdukBaru->set_bahan($HARCODELIST[$i + 2]);
     $ProdukBaru->set_warna($HARCODELIST[$i + 3]);
@@ -126,15 +126,15 @@ for ($i = 0; $i < count($HARCODELIST); $i += 10) {
 
         <?php foreach ($list_baju as $baju) {
             echo "<tr>";
-            echo "<td><img src='" . $baju->get_fotoProduk() . "' alt='" . $baju->get_namaProduk() . "'></td>";
-            echo "<td>" . $baju->get_namaProduk() . "</td>";
+            echo "<td><img src='" . $baju->get_fotoProduk() . "' alt='" . $baju->get_nama_produk() . "'></td>";
+            echo "<td>" . $baju->get_nama_produk() . "</td>";
             echo "<td>" . $baju->get_jenis() . "</td>";
             echo "<td>" . $baju->get_bahan() . "</td>";
             echo "<td>" . $baju->get_warna() . "</td>";
             echo "<td>" . $baju->get_untuk() . "</td>";
             echo "<td>" . $baju->get_merk() . "</td>";
-            echo "<td>Rp " . number_format($baju->get_hargaProduk(), 0, ',', '.') . "</td>";
-            echo "<td>" . $baju->get_stokProduk() . "</td>";
+            echo "<td>Rp " . number_format($baju->get_harga_produk(), 0, ',', '.') . "</td>";
+            echo "<td>" . $baju->get_stok_produk() . "</td>";
             echo "<td>" . $baju->get_size() . "</td>";
             echo "</tr>";
         } ?>

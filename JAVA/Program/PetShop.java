@@ -57,12 +57,12 @@ public class PetShop {
         this.harga_produk = harga_produk;
     }
 
-    // Get kategori produk
+    // Get stok produk
     public int get_stok_produk() {
         return this.stok_produk;
     }
 
-    // Set kategori produk
+    // Set stok produk
     public void set_stok_produk(int stok_produk) {
         this.stok_produk = stok_produk;
     }
