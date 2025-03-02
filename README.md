@@ -53,5 +53,3 @@ Berikut struktur desain pada tiap bahasa dan deskripsinya:
 ## Alur Program
 
 Program ini alurnya mulai dari meng inisiasi objek dari kelas 'Baju' dan mengisi nilai nilai tersebut dengan atributnya. Cara mengisinya dengan menggunakan method setter. Lalu memasukkan objek objek yang sudah diisi ke dalam suatu list. Di dalam list sudah ada 5 objek awal (Hardcoded) sisanya inputan dari user. Setelah input dari user akan langsung muncul tabel yang berbentuk dinamis dan menampilkan objek objek yang sudah terdaftar pada list.
-
-```
