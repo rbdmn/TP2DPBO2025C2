@@ -12,18 +12,18 @@ Bisa terlihat pada gambar bahwa terdapat 3 class yang saling berhubungan. Dimula
 Berikut struktur desain pada tiap bahasa dan deskripsinya:
 
 ### **Atribut:**
-| Atribut      | Deskripsi                                  |
-|-------------|------------------------------------------|
-| `nama_produk` | Nama dari produk baju                  |
-| `jenis`      | Jenis baju (Kasual, Rumahan, dll.)      |
-| `bahan`      | Bahan dari baju (Cotton, Silk, dll.)   |
-| `warna`      | Warna dari baju                         |
-| `untuk`      | Target hewan (Anjing, Kucing, dll.)   |
-| `merk`       | Merk dari baju                          |
-| `harga_produk`| Harga produk dalam Rupiah              |
-| `stok_produk` | Jumlah stok produk yang tersedia       |
-| `size`       | Ukuran dari baju (S, M, L, dll.)       |
-| `foto_produk`     | Nama file gambar dari produk           |
+| Atribut        | Deskripsi                              | Class     |
+|----------------|----------------------------------------|-----------|
+| `nama_produk`  | Nama dari produk baju                  | PetShop   |
+| `jenis`        | Jenis baju (Kasual, Rumahan, dll.)     | Aksesoris |
+| `bahan`        | Bahan dari baju (Cotton, Silk, dll.)   | Aksesoris |
+| `warna`        | Warna dari baju                        | Aksesoris |
+| `untuk`        | Target hewan (Anjing, Kucing, dll.)    | Baju      |
+| `merk`         | Merk dari baju                         | Baju      |
+| `harga_produk` | Harga produk dalam Rupiah              | PetShop   |
+| `stok_produk`  | Jumlah stok produk yang tersedia       | PetShop   |
+| `size`         | Ukuran dari baju (S, M, L, dll.)       | Baju      |
+| `foto_produk`  | Nama file gambar dari produk           | PetShop   |
 
 ### **Method:**
 | Method           | Deskripsi                                      |
